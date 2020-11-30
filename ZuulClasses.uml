@@ -3,20 +3,20 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="0.0" y="551.0">Player</node>
+    <node x="194.0" y="539.0">Player</node>
     <node x="0.0" y="0.0">Game</node>
-    <node x="0.0" y="235.0">Command</node>
-    <node x="0.0" y="404.0">CommandWord</node>
-    <node x="294.0" y="235.0">CommandWords</node>
-    <node x="153.0" y="551.0">ConsoleColours</node>
-    <node x="386.0" y="551.0">Map</node>
+    <node x="0.0" y="231.0">Command</node>
+    <node x="0.0" y="396.0">CommandWord</node>
+    <node x="347.0" y="539.0">ConsoleColours</node>
+    <node x="294.0" y="231.0">CommandWords</node>
+    <node x="552.0" y="539.0">Map</node>
     <node x="302.0" y="0.0">Room</node>
-    <node x="500.0" y="404.0">Main</node>
-    <node x="264.0" y="404.0">Parser</node>
+    <node x="0.0" y="539.0">Main</node>
+    <node x="264.0" y="396.0">Parser</node>
   </nodes>
   <notes />
   <edges />
-  <settings layout="Hierarchic Group" zoom="1.0" x="324.5" y="304.5" />
+  <settings layout="Hierarchic Group" zoom="0.8400621118012422" x="312.0" y="296.5" />
   <SelectedNodes />
   <Categories>
     <Category>Methods</Category>
